@@ -14,15 +14,17 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SALMANULFARIS-M&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALMANULFARIS-M&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <br/>
+<br/>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALMANULFARIS-M&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  ### 🔝 Top Contributed Repo
-  <img align="right" src="https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
 </div>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SALMANULFARIS-M&icon=0&color=1)](https://visitcount.itsvg.in)
