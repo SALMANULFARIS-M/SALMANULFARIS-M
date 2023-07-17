@@ -22,10 +22,15 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 <p align="center" >
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfaris-m&label=Profile%20views&color=0e75b6&style=flat" alt="salmanulfaris-m" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanulfaris-m" alt="salmanulfaris-m" /></a> </p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
