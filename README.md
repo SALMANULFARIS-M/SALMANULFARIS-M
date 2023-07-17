@@ -31,7 +31,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfaris-m&label=Profile%20views&color=0e75b6&style=flat" alt="salmanulfaris-m" /> </p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
