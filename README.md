@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salmanul Faris M</h1>
 <h3 align="center">A passionate MEAN stack developer from India</h3>
 
-<br/>
-<br/>
+
 <br/>
 <br/>
  <img align="right" alt="coding" width="350" height="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
