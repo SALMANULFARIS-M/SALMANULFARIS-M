@@ -17,14 +17,26 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALMANULFARIS-M&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
 </p>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <p align="center" >
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" style="margin-right: 30px"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
 </p>
 
-
-### 🔝 Top Contributed Repo
 <p align="center">
+  ### 🔝 Top Contributed Repo
   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p> 
 ---
