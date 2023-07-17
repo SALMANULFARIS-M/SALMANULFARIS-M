@@ -18,14 +18,14 @@
 </p>
 <br/>
 
-<p align="center">
+<p align="center" style="margin-right: 30px">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
 </p>
 
-
+<p align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</p> 
 ---
 [![](https://visitcount.itsvg.in/api?id=SALMANULFARIS-M&icon=0&color=1)](https://visitcount.itsvg.in)
 
