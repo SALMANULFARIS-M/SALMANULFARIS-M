@@ -28,13 +28,15 @@
 <p align="center" >
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SALMANULFARIS-M&theme=blue-green&hide_border=true" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfaris-m&label=Profile%20views&color=0e75b6&style=flat" alt="salmanulfaris-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanulfaris-m" alt="salmanulfaris-m" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=salman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfaris-m&label=Profile%20views&color=0e75b6&style=flat" alt="salmanulfaris-m" /> </p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SALMANULFARIS-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SALMANULFARIS-M&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
