@@ -7,7 +7,7 @@
  <img align="right" alt="coding" width="350" height="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 # 💫 About Me:
-🔭 I’m currently working on Angular and node applications<br>👯 I’m Working as a web develepor in bengaluru<br>🤝 I’m looking looking to collaborate on freelance works<br>🌱 I’m currently exploring nest js<br>💬 Ask me about angular<br>📫 How to reach me fsalmanul13@gmail.com<br>📲 Contact me +91 8139851011<br>👨‍💻 All of my projects are available at https://github.com/SALMANULFARIS-M?tab=repositories<br>⚡ Fun fact I am interested in learn new things<br>
+🔭 I’m currently working on Angular and node applications<br>👨🏻‍💻 I’m Working as a web develepor in bengaluru<br>🤝 I’m looking looking to collaborate on freelance works<br>🌱 I’m currently exploring nest js<br>💬 Ask me about angular<br>📫 How to reach me fsalmanul13@gmail.com<br>📲 Contact me +91 8139851011<br>👨‍💻 All of my projects are available at https://github.com/SALMANULFARIS-M?tab=repositories<br>⚡ Fun fact I am interested in learn new things<br>
 
 
 ## 🌐 Socials:
